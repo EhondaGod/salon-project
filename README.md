@@ -4,20 +4,6 @@ A modern, responsive salon landing page designed to showcase elegant layouts, cl
 
 ---
 
-## 🌐 Live Demo
-
-https://your-netlify-link.netlify.app
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your homepage here.
-
-![Jason's Style Studio](images/project-preview.jpg)
-
----
-
 ## ✨ Features
 
 - Responsive design for desktop, tablet, and mobile devices
